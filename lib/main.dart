@@ -6,7 +6,6 @@ import 'app/data/services/storage_service.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
-  // Initialize services
   await Get.putAsync(() => StorageService().init());
   
   runApp(

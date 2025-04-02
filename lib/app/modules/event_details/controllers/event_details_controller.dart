@@ -44,7 +44,6 @@ class EventDetailsController extends GetxController {
   void loadEventsByTrack(String trackId) {
     isLoading.value = true;
     
-    // Get track details
     final tracks = _localDataProvider.getTracks();
     track.value = tracks.firstWhere(
       (t) => t.id == trackId,
@@ -55,7 +54,6 @@ class EventDetailsController extends GetxController {
       ),
     );
     
-    // Get events for this track
     events.value = _localDataProvider.getEventsByTrack(trackId);
     
     isLoading.value = false;
