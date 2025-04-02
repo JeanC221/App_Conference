@@ -1,0 +1,127 @@
+{
+   "checksum": "f72847355aefbdfa1d673a41403b4ede",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13388071673350637",
+            "date_last_used": "0",
+            "guid": "88ceeaeb-ea7d-44b0-af7d-791da5e06497",
+            "id": "15",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13388071673350467",
+            "date_last_used": "0",
+            "guid": "486ce1cf-b582-4419-9933-b38c7efff365",
+            "id": "14",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13388071673350123",
+            "date_last_used": "0",
+            "guid": "71c897a9-d894-4bb8-85ab-e5c8176bef9a",
+            "id": "13",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13298828917949183",
+               "date_last_used": "0",
+               "guid": "467a13d8-1724-447b-9283-9ab8b87ff9c9",
+               "id": "10",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.acer.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13299443594106665",
+            "date_last_used": "0",
+            "date_modified": "13299443594106665",
+            "guid": "9ee92e1e-1988-4d8a-8218-d07579cd2098",
+            "id": "9",
+            "name": "Acer",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13388047378374085",
+            "date_last_used": "0",
+            "guid": "12b55a68-1154-421f-91cf-82c39e5c8ee3",
+            "id": "8",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13388047378373929",
+            "date_last_used": "0",
+            "guid": "15006f12-df83-430c-a522-c101efb1d2f2",
+            "id": "7",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13388047378373433",
+            "date_last_used": "0",
+            "guid": "93586330-727c-4330-a2a0-4660368b1311",
+            "id": "6",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         } ],
+         "date_added": "13388047378109736",
+         "date_last_used": "0",
+         "date_modified": "13388071673350637",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13388047378109739",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13388047378109741",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCOP8E/WVAQAAKg4QABgBIAAoBjAAOABAABIAKhhxVnBnRUNwcC9OWHlZSmVaVTRSY3ZnPT1IA6AGDBKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRlNTIzMmI2Yy02NGEzLTUyMTktYmNlZC0xN2EwMTBhZGRmM2YYACAAKAAwiLGRmscuOPG0md3sL0DxtJnd7C9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMGE4ZmNhYWItZDYwOS01ODFlLTgwYzMtNDZjNTcyZjg1ZTY0GAAgACgAMISxkZrHLjjCtJnd7C9AwrSZ3ewvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDcyYzY1NDdjLTA4YzMtNTM1NS05MmFlLThmNzZhOTNhNmIxMRgAIAAoADCDsZGaxy44orSZ3ewvQKK0md3sL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgJEqcBChxGbi93NVdMWkMyQzllSmphY2FtZ1d3RFl6N1E9EiQ5ZWU5MmUxZS0xOTg4LTRkOGEtODIxOC1kMDc1NzljZDIwOTgYACAAKAAwkreYn5UwOLG3mJ+VMECxt5iflTBKHHU0eVFRdy9tVzFoNUViUzJvNlVYMWMvYUR2Yz1aHiIcZ1gzR0wvYTR6RTVhWkUwS3JBNEplcEVWODk4PWUAAAAAwj4CYAASrAEIChKnAQocV3dLcEVxUWFTYXNscy9YdEJRSGRWMk11SjlJPRIkNDY3YTEzZDgtMTcyNC00NDdiLTkyODMtOWFiOGI4N2ZmOWM5GAAgACgAMJK3mJ+VMDjRt5iflTBA0beYn5UwShxybEpraC9wZUdYaFVwVGJUZ1BUR0thbFdmMkE9Wh4iHDRyWmdDRnBlRE5SN0RyOHJVLzBGM2x6b0dHWT1lAAAAAMI+AmAFMAA4AA==",
+   "version": 1
+}
